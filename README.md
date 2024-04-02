@@ -1,4 +1,4 @@
-##  project
+##  Code Project
 Hello there!\
 This repository holds programming projects done during the period of stanCode SC001 course. 
 
